@@ -1,25 +1,61 @@
-# git-command-showcase
+# **PROFESSIONAL DOCUMENTATION**
 
-## Clone Repository 
-git clone <repository-url> 
 
-## Check Status 
-git status
 
-## Stage Files 
-git add .
+### 📌Git Commands
 
-## Commit Changes 
-git commit -m "message"
+#### 
 
-## Push Changes 
-git push
+* #### Check Status:
 
-## Pull Latest Changes 
-git pull
 
-## Create Branch 
-git checkout -b branch-name
 
-## Git Stash 
-git stash
+&#x20;   git status
+
+
+
+* #### Stage Files:
+
+
+
+&#x20;   git add .
+
+
+
+* #### Commit Changes:
+
+
+
+&#x20;   git commit -m "message"
+
+
+
+* #### Push Changes:
+
+
+
+&#x20;  git push
+
+
+
+* #### Pull Latest Changes:
+
+&#x20;
+
+&#x20;  git pull
+
+
+
+### Tools Used
+
+
+
+&#x20;
+
+|                                      **Tool**|                        **Purpose**|
+|-|-|
+|                                     GitHub|                    Version Control|
+|                                     Markdown|                      Documentation|
+
+
+
